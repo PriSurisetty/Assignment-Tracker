@@ -5,7 +5,7 @@ A Python script that automatically sends daily email reminders for upcoming assi
 **Spreadsheet:**
 
 
-<img width="600" alt="Screenshot 2024-08-26 at 5 00 09 PM" src="https://github.com/user-attachments/assets/58d954c2-b581-4b9f-8e65-95f6b9f22bab">
+<img width="550" alt="Screenshot 2024-08-26 at 5 00 09 PM" src="https://github.com/user-attachments/assets/58d954c2-b581-4b9f-8e65-95f6b9f22bab">
 
 
 
