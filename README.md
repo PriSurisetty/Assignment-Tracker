@@ -3,7 +3,9 @@
 A Python script that automatically sends daily email reminders for upcoming assignments based on the due dates provided in a spreadsheet. This bot runs every morning at 9 AM on the cloud to help you stay organized throughout the school year. The cloud used for this project is called PythonAnywhere; The API which processes the spreadsheet is Sheety.
 
 **Spreadsheet:**
-<img width="400" alt="Screenshot 2024-08-26 at 5 00 09 PM" src="https://github.com/user-attachments/assets/58d954c2-b581-4b9f-8e65-95f6b9f22bab">
+
+
+<img width="600" alt="Screenshot 2024-08-26 at 5 00 09 PM" src="https://github.com/user-attachments/assets/58d954c2-b581-4b9f-8e65-95f6b9f22bab">
 
 
 ## Features
