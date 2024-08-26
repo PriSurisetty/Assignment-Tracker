@@ -11,7 +11,7 @@ A Python script that automatically sends daily email reminders for upcoming assi
 
 **Notifications / Reminders:**
 
-<img width="170" height="400" alt="Screenshot 2024-08-26 at 5 03 05 PM" src="https://github.com/user-attachments/assets/028f4682-cb45-4bc8-8baf-ad2bd5744389">
+<img width="180" height="400" alt="Screenshot 2024-08-26 at 5 03 05 PM" src="https://github.com/user-attachments/assets/028f4682-cb45-4bc8-8baf-ad2bd5744389">
 
 
 
