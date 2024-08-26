@@ -41,11 +41,14 @@ A Python script that automatically sends daily email reminders for upcoming assi
 6. Configure your email settings in the script:
 
    EMAIL_ADDRESS = "your_email@example.com"
+   
    EMAIL_PASSWORD = "your_email_password"
+   
    SMTP_SERVER = "smtp.example.com"
+   
    SMTP_PORT = 587
 
-7. Set up the script to run daily at a specified time using a cloud service or a task scheduler, like PythonAnywhere.
+8. Set up the script to run daily at a specified time using a cloud service or a task scheduler, like PythonAnywhere.
 
 
 **Running the Script:**
