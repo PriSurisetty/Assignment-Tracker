@@ -8,6 +8,13 @@ A Python script that automatically sends daily email reminders for upcoming assi
 <img width="600" alt="Screenshot 2024-08-26 at 5 00 09 PM" src="https://github.com/user-attachments/assets/58d954c2-b581-4b9f-8e65-95f6b9f22bab">
 
 
+
+**Notifications / Reminders:**
+
+<img width="409" alt="Screenshot 2024-08-26 at 5 03 05 PM" src="https://github.com/user-attachments/assets/028f4682-cb45-4bc8-8baf-ad2bd5744389">
+
+
+
 ## Features
 
 - Parses a spreadsheet containing class names, assignment names, due dates, and times.
